@@ -2,3 +2,5 @@ pandas
 numpy
 scipy
 iexfinance
+matplotlib
+mysql-connector-python
